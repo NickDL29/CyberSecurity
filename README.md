@@ -115,3 +115,12 @@ Message: <iframe src="http://wikipedia.org"></iframe>
 
 3.Name: Test 3
 Message: <script>alert(document.cookie)</script>
+```
+
+```
+WebGoat
+
+1. smith or 1=1
+2. smith %' or '0'='0
+3. <script>alert("Hello")</script>  111
+```
