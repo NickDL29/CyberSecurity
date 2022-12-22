@@ -124,3 +124,25 @@ WebGoat
 2. smith %' or '0'='0
 3. <script>alert("Hello")</script>  111
 ```
+
+```
+Assignment - 9
+Consider a case study of cyber crime, where the attacker has
+performed online credit card fraud. Prepare a report and also list
+the laws that will be implemented on the attacker.
+Man arrested for credit card fraud in Coimbatore
+The cyber crime police in the city arrested a 32-year-old man who allegedly used a customer’s
+credit card to buy jewelry. The police said that V. Suresh, a resident of Edayarpalayam who
+worked in the credit cards section of a nationalized bank on contract basis, was arrested for
+misusing a customer’s credit card.
+According to the police, Suresh worked at the Pappanaickenpalayam branch of the bank. A
+person namely Selvaraj had surrendered his credit card with Suresh at the bank and obtained
+an acknowledgment letter for the same.
+However, Suresh used the card surrendered by the customer and purchased ornaments from a
+jewelry showroom in Coimbatore. He later pledged the jewelry at another bank for money, the
+police said.
+Laws Implemented
+● IPC 420
+● Section 66 of the Information Technology act
+● Section 67 of the Information Technology act
+```
