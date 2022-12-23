@@ -18,37 +18,6 @@ echo QUIT | nc -v www.scet.ac.in 80 22
 ```
 
 ```
-nmap
-
-1.Identify hosts on network
-nmap -sn 184.72.216.0-255
-
-2.Scan TCP Ports
-nmap -sT www.triple5.tech
-
-3.Scan TCP Ports without completing TCP three way-handshakes
-sudo nmap -sS www.triple5.tech
-
-4.Scan UDP Ports
-nmap -sU www.triple5.tech
-
-5.Scan TCP Ports with stealth scan
-sudo nmap -sF www.triple5.tech
-
-6.identify which hosts are live on network
-nmap -$n www.triple5.tech
-
-7.check which protocol service is available on the host
-sudo nmap -sO www.triple5.tech
-
-8.determine which service is available on the host
-sudo nmap -sV www.triple5.tech
-
-9. identify the operating system
-sudo nmap -O www.triple5.tech
-```
-
-```
 Nikto
 
 1.scan website with nikto
@@ -145,4 +114,35 @@ Laws Implemented
 ● IPC 420
 ● Section 66 of the Information Technology act
 ● Section 67 of the Information Technology act
+```
+
+```
+nmap
+
+1.Identify hosts on network
+nmap -sn 184.72.216.0-255
+
+2.Scan TCP Ports
+nmap -sT www.triple5.tech
+
+3.Scan TCP Ports without completing TCP three way-handshakes
+sudo nmap -sS www.triple5.tech
+
+4.Scan UDP Ports
+nmap -sU www.triple5.tech
+
+5.Scan TCP Ports with stealth scan
+sudo nmap -sF www.triple5.tech
+
+6.identify which hosts are live on network
+nmap -$n www.triple5.tech
+
+7.check which protocol service is available on the host
+sudo nmap -sO www.triple5.tech
+
+8.determine which service is available on the host
+sudo nmap -sV www.triple5.tech
+
+9. identify the operating system
+sudo nmap -O www.triple5.tech
 ```
